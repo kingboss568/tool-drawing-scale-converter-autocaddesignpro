@@ -1,16 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://scale.autocaddesignpro.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/tool/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/workspace/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://scale.autocaddesignpro.com/templates/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/reports/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/library/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://scale.autocaddesignpro.com/examples/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/checklists/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/integrations/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/settings/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/plans/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/faq/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://scale.autocaddesignpro.com/privacy/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/about/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/check-color-contrast-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/build-a-type-scale-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/define-spacing-tokens-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/compare-component-options-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/export-design-notes-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/check-color-contrast-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/build-a-type-scale-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/define-spacing-tokens-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/compare-component-options-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/export-design-notes-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/check-color-contrast-13/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/build-a-type-scale-14/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-15/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/define-spacing-tokens-16/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/compare-component-options-17/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/export-design-notes-18/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/check-color-contrast-19/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/build-a-type-scale-20/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-21/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/define-spacing-tokens-22/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/compare-component-options-23/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/export-design-notes-24/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/check-color-contrast-25/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/build-a-type-scale-26/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-27/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/define-spacing-tokens-28/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/compare-component-options-29/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/export-design-notes-30/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/check-color-contrast-31/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/build-a-type-scale-32/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-33/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/define-spacing-tokens-34/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/compare-component-options-35/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/guides/export-design-notes-36/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/contrast-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/type-scale-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/brand-kit-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/spacing-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/tokens-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/component-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/accessibility-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/palette-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/contrast-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/type-scale-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/brand-kit-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/spacing-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/tokens-13/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/component-14/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/accessibility-15/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/palette-16/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/contrast-17/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/type-scale-18/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/brand-kit-19/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/spacing-20/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/tokens-21/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/component-22/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/accessibility-23/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/palette-24/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/contrast-25/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/type-scale-26/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/brand-kit-27/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/library/spacing-28/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/token-board-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/contrast-checker-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/type-scale-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/brand-brief-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/component-preview-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/export-panel-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/token-board-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/contrast-checker-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/type-scale-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/brand-brief-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/component-preview-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/export-panel-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/token-board-13/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/contrast-checker-14/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/type-scale-15/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/brand-brief-16/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/component-preview-17/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/templates/export-panel-18/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/token-board-vs-type-scale/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/contrast-checker-vs-brand-brief/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/type-scale-vs-component-preview/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/brand-brief-vs-export-panel/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/component-preview-vs-token-board/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/export-panel-vs-contrast-checker/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/token-board-vs-type-scale/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/contrast-checker-vs-brand-brief/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/type-scale-vs-component-preview/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/brand-brief-vs-export-panel/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/component-preview-vs-token-board/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/compare/export-panel-vs-contrast-checker/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/contrast-failure-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/inconsistent-spacing-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/weak-type-hierarchy-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/missing-brand-usage-notes-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/poor-mobile-fit-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/unclear-component-state-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/contrast-failure-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/inconsistent-spacing-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/weak-type-hierarchy-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/missing-brand-usage-notes-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/poor-mobile-fit-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://scale.autocaddesignpro.com/checklists/unclear-component-state-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>

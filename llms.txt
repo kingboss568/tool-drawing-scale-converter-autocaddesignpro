@@ -1,0 +1,45 @@
+Drawing Scale Converter
+
+Drawing Scale Converter is a practical design system workspace for marketing designer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://scale.autocaddesignpro.com/
+- https://scale.autocaddesignpro.com/tool/
+- https://scale.autocaddesignpro.com/workspace/
+- https://scale.autocaddesignpro.com/reports/
+- https://scale.autocaddesignpro.com/guides/
+- https://scale.autocaddesignpro.com/library/
+- https://scale.autocaddesignpro.com/templates/
+- https://scale.autocaddesignpro.com/compare/
+- https://scale.autocaddesignpro.com/checklists/
+- https://scale.autocaddesignpro.com/integrations/
+- https://scale.autocaddesignpro.com/settings/
+- https://scale.autocaddesignpro.com/plans/
+- https://scale.autocaddesignpro.com/faq/
+- https://scale.autocaddesignpro.com/privacy/
+- https://scale.autocaddesignpro.com/about/
+- https://scale.autocaddesignpro.com/guides/check-color-contrast-1/
+- https://scale.autocaddesignpro.com/guides/build-a-type-scale-2/
+- https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-3/
+- https://scale.autocaddesignpro.com/guides/define-spacing-tokens-4/
+- https://scale.autocaddesignpro.com/guides/compare-component-options-5/
+- https://scale.autocaddesignpro.com/guides/export-design-notes-6/
+- https://scale.autocaddesignpro.com/guides/check-color-contrast-7/
+- https://scale.autocaddesignpro.com/guides/build-a-type-scale-8/
+- https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-9/
+- https://scale.autocaddesignpro.com/guides/define-spacing-tokens-10/
+- https://scale.autocaddesignpro.com/guides/compare-component-options-11/
+- https://scale.autocaddesignpro.com/guides/export-design-notes-12/
+- https://scale.autocaddesignpro.com/guides/check-color-contrast-13/
+- https://scale.autocaddesignpro.com/guides/build-a-type-scale-14/
+- https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-15/
+- https://scale.autocaddesignpro.com/guides/define-spacing-tokens-16/
+- https://scale.autocaddesignpro.com/guides/compare-component-options-17/
+- https://scale.autocaddesignpro.com/guides/export-design-notes-18/
+- https://scale.autocaddesignpro.com/guides/check-color-contrast-19/
+- https://scale.autocaddesignpro.com/guides/build-a-type-scale-20/
+- https://scale.autocaddesignpro.com/guides/draft-a-brand-kit-21/
+- https://scale.autocaddesignpro.com/guides/define-spacing-tokens-22/
+- https://scale.autocaddesignpro.com/guides/compare-component-options-23/
+- https://scale.autocaddesignpro.com/guides/export-design-notes-24/
+- https://scale.autocaddesignpro.com/guides/check-color-contrast-25/
